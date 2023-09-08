@@ -47,7 +47,7 @@ def lemmatizer(text):
 
 st.title("Comprehensive Guide on NLP")
 st.markdown("By Dangeti Sravya")
-image = Image.open("emoji_satisfaction_meter.jpg")
+image = Image.open("sentimental analysis image.png")
 st.image(image, use_column_width=True)
 
 st.subheader("Enter your text here:")
