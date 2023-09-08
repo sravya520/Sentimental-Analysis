@@ -74,5 +74,5 @@ if st.button("Predict"):
             st.subheader("The sentiment of the given text is: Positive")
     else:
         st.subheader("Please enter a text for prediction.")
-image = Image.open("sentimental analysis image.png")
+image = Image.open("image.png")
 st.image(image, use_column_width=True)
